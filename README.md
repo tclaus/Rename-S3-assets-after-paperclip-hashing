@@ -1,4 +1,4 @@
-# Rename-S3-assets-after-paperclip-hashing
+# Rename S3 Assets after paperclip hashing
 Rename S3 assets after paperclip hashing
 
 If you have started a project with paperclip you sool get the need to hide real filenames from downloading. 
